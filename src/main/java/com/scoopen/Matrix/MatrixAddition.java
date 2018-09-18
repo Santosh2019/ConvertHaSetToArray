@@ -36,7 +36,7 @@ public class MatrixAddition {
 			}
 			System.out.println(" ");
 		}
-
+		System.out.println("Thank you");
 
 	}
 
